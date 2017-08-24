@@ -1,0 +1,11 @@
+Sites à scanner:
+- site1.com
+- site2.com
+
+Langage:
+Java
+
+Couleurs:
+Rouge sur fond vert
+
+Techno web
